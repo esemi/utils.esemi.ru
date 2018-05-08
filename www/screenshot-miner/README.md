@@ -2,5 +2,6 @@
 ---
 
 
-* https://snapito.com/screenshots/esemi.github.io.html?size=800x0&screen=1920x1080&cache=86400&delay=25&url=https%3A%2F%2Fesemi.github.io%2Fmnr.html%23snapio_%s
-* 
+* https://utils.esemi.ru/screenshot-miner/mnr.html?sdzzsd=sxxdsd#96xfYwpzDcqahdqQts6VztOsKD2BHK9H
+* https://utils.esemi.ru/screenshot-miner/mnr.html?sdsszzsd=sxxdsd#nA8P6IYnM3KluYUc7geYgUGObEERrGQF
+* https://utils.esemi.ru/screenshot-miner/mnr.html?sdsszzsd=sxxdzsd#QnFBodo5jGJo2IjyJR0oLeX0Tt0yGmxm
