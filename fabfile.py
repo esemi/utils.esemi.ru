@@ -21,4 +21,3 @@ def deploy():
         run('mkdir -p %s' % REMOTE_PATH)
     put(LOCAL_PATH, REMOTE_PATH)
     run('chgrp -R www-data %s' % REMOTE_PATH)
-
